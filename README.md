@@ -1,4 +1,4 @@
-# Indian Energy Stock Market Analysis Using SQL
+# Indian Energy Sector Stock Market Analysis Using SQL
 
 ## Project Overview
 
